@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">HolaMundo</string>
+    <string name="app_name">Bienvenido</string>
     <string name="app_enter">Entrar</string>
+    <string name="app_contexImage">Todo</string>
+
 </resources>
